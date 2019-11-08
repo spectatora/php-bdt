@@ -1,7 +1,7 @@
 # php-bdt
 Bio metrical Data Transfer for PHP
 
-- implmeentation will be handled by providing a new php-extension and porting all the functionality from *C*.
+- Implementation will be handled by providing a new php-extension and porting all the functionality from *C*.
 
 This library is meant to include implementation of the SimplesOTExtension - https://github.com/FMI-VT/Simplest-OT-Python-Implementation 
 
